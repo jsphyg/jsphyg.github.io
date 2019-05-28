@@ -1,8 +1,6 @@
 ---
 title: "Untitled"
-output: 
-  html_document: 
-    theme: paper
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
