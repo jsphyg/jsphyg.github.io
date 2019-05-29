@@ -22,5 +22,5 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: simplex
+    theme: lumen
     highlight: zenburn
