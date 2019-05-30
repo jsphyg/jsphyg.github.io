@@ -7,18 +7,8 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Examples"
-      menu:
-        - text: "Model and Metric Information"
-          href: example_info.html
-        - text: "Variable Specifications and Preprocessing"
-          href: example_variables.html
-        - text: "---------"
-        - text: "IC Home Prices"
-          href: example_ichomes.html
-        - text: "Iris Flowers Species"
-          href: example_iris.html
-        - text: "Pima Indians Diabetes"
-          href: example_pima.html
+      href: examples.html
+
   right:
     - icon: fa-github fa-lg
       href: https://jsphyg.github.io/
